@@ -1,0 +1,32 @@
+.slct{
+    width:20%;
+    height:60px;
+    padding:1%;
+    font-size: large;
+    border: 3px solid #00B4CC;
+    border-radius: 5px 0 0 5px;
+}
+
+.btn{
+    padding:1.3%;
+    border: 3px solid #00B4CC;
+    border-radius: 5px 0 0 5px;
+    font-size: large;
+}
+
+.more{
+    position: relative;
+    border:0;
+    outline: none;
+    font-size:large;
+    left:10%;
+    padding:1%;
+
+    
+}
+
+.more:hover{
+    color:white;
+    background-color: black;
+    border-radius: 10%;
+}

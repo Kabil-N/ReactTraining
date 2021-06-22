@@ -1,0 +1,21 @@
+.table{
+    text-align: left;
+
+}
+
+.list{
+    width:25%;
+}
+
+.next{
+    float:right;
+    width:10%;
+}
+
+.nxt{
+    padding:12%;
+    border: 3px solid #00B4CC;
+    border-radius: 5px 0 0 5px;
+    font-size: large;
+    width:85%;
+}
