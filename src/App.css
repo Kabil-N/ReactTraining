@@ -12,9 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-/* *{
-  box-sizing:border-box;
-} */
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -37,31 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.navbar
-{
-  background:#090b13;
-  padding:2%;
-
-
-}
-
-.link{
-  color:white;
-  padding:1%;
-  text-decoration:none;
-}
-.link:hover{
-  /* text-decoration: underline; */
-  /* background-color: white; */
-  color:white;
-  cursor:pointer;
-}
-
-*{
-  -ms-overflow-style: none;
-}
-::-webkit-scrollbar {
-  display: none;
 }
