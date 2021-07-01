@@ -1,12 +1,17 @@
-import logo from './logo.svg';
+
+import React,{ useEffect, useState } from 'react';
 import './App.css';
-import SearchMovie from './components/searchMovie';
+import ClassA from './components/classA';
+import Counter from './components/Counter';
+import UseRef from './components/UseRef';
 function App() {
   return (
-    <div className="App">
-      <SearchMovie />
+    <div>
+      {/* <ClassA />
+      <Counter /> */}
+      <UseRef />
     </div>
-  );
+  )
 }
 
 export default App;
